@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about **Html5, CSS, React,**
+- 💬 Ask me about **Html5, CSS, React, Web development**
 
 - 📫 How to reach me **shafkatsaad@gmail.com**
 
